@@ -1,6 +1,6 @@
 # Tasks
 
-## Task 0: Keep every promise you make and only make promises you can keep (Mandatory)
+### Task 0: Keep every promise you make and only make promises you can keep (Mandatory)
 **Score:** 50.0% (Checks completed: 100.0%)
 
 ### Description
