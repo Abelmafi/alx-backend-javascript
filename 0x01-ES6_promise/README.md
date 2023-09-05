@@ -14,11 +14,9 @@ import getResponseFromAPI from "./0-promise.js";
 const response = getResponseFromAPI();
 console.log(response instanceof Promise);
 ```
-`bob@dylan:~$ 
-bob@dylan:~$ npm run dev 0-main.js 
+`bob@dylan:~$ bob@dylan:~$ npm run dev 0-main.js 
 true
-bob@dylan:~$ `
-Repository Information
+bob@dylan:~$ ` Repository Information
 
     GitHub repository: alx-backend-javascript
     Directory: 0x01-ES6_promise
