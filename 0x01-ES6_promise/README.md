@@ -1,3 +1,7 @@
+# Resources
+
+### Read or watch:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 # Tasks
 
 ### Task 0: Keep every promise you make and only make promises you can keep (Mandatory)
