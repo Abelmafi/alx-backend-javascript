@@ -18,7 +18,7 @@ Welcome to the ALX Backend JavaScript Repository. This collection of subfolders 
 
 ## Author
 
-* **Abel mesifin* - [Your GitHub Profile](https://github.com/Abelmafi)
+* **Abel mesifin** - [Your GitHub Profile](https://github.com/Abelmafi)
 
 ## Acknowledgments
 
